@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helper</string>
+    <string name="action_settings">Настройки</string>
+    <string-array name="pictitles">
+        <item>Рука</item>
+        <item>Попа</item>
+        <item>Спина</item>
+        <item>Ухо</item>
+        <item>Глаза</item>
+        <item>Стопа</item>
+        <item>Пальцы</item>
+        <item>Голова</item>
+        <item>Нога</item>
+        <item>Горло</item>
+        <item>Нос</item>
+        <item>Живот</item>
+        <item>Зуб</item>
+    </string-array>
+
+    <string-array name="picture_menu" >
+        <item>Переименовать</item>
+        <item>Удалить</item>
+    </string-array>
+    <string name="action_add_picture">Добавить картинку</string>
+    <string name="action_choose_directory">Выбрать папку</string>
+    <string name="action_create_directory">Создать папку</string>
+    <string name="action_picture_menu">Меню картинки</string>
+    <string name="cancel">Отмена</string>
+    <string name="image_title">Введите название картинки</string>
+    <string name="new_image_title">Введите новое название картинки</string>
+    <string name="ok">Готово</string>
+    <string name="root">Главная</string>
+    <string name="new_directory_title">Введите название новой папки</string>
+    <string name="action_show_create_directory">Показывать кнопку выбрать папку</string>
+    <string name="action_feedback">Обратная связь (жалобы и предложения)</string>
+    <string name="dont_input">Вы не ввели текст или email</string>
+    <string name="input_email">Введите email для ответа от разработчиков</string>
+    <string name="input_feedback">Введите отзыв, жалобу или предложение</string>
+    <string name="thanks_feedback">Спасибо за отзыв</string>
+    <string name="action_set_size">Изменить размер картинок</string>
+    <string name="no_permissions">Вы не дали права доступа к файловой системе</string>
+    <string name="store">Магазин</string>
+    <string name="action_set_menu">Меню набора</string>
+    <string name="cant_edit_set">Вы не можете редактировать этот набор</string>
+    <string name="connection_error">Ошибка подключения</string>
+    <string name="content">Содержимое</string>
+    <string name="download">Загрузить</string>
+    <string name="downloaded">Загружено</string>
+    <string name="downloading">Идет загрузка</string>
+    <string name="new_set_title">Введите новое название набора</string>
+    <string name="set">Набор</string>
+    <string name="sets">Наборы</string>
+    <string name="try_again">Попробовать снова</string>
+    <string name="version_doesnt_support">Версия Android не поддерживает</string>
+    <string name="promo_store_message">Привет, мы разработали библиотеку изображений, посмотрим наш магазин</string>
+
+    <string name="tts_settings">Открыть настройки синтезатора речи</string>
+    <string name="install_tts">Пожалуйста, установите синтезатор речи из Play Маркета.</string>
+    <string name="lang_doesnt_support">Не могу говорить</string>
+</resources>

@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity"
+    >
+    <item
+        android:id="@+id/action_choose_directory"
+        android:title="@string/action_choose_directory"
+        android:icon="@android:drawable/ic_menu_directions"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_add_picture"
+        android:title="@string/action_add_picture" />
+    <item
+        android:id="@+id/action_set_size"
+        android:title="@string/action_set_size" />
+    <item
+        android:id="@+id/action_create_directory"
+        android:title="@string/action_create_directory"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/tts_settings"
+        android:title="@string/tts_settings"
+        app:showAsAction="never"/>
+
+</menu>
